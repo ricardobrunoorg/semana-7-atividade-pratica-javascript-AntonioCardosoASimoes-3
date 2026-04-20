@@ -5,13 +5,17 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Antônio Cardoso
+- Matricula: 853577
 
 ## Print do console do navegador
 
 <<  COLOQUE A IMAGEM AQUI >>
 
-
+![Imagem 1](image.png)
+![Imagem 2](image-1.png)
+![Imagem 3](image-2.png)
+![Imagem 4](image-3.png)
+![Imagem 5](image-4.png)
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
